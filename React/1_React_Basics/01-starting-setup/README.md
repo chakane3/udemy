@@ -6,7 +6,7 @@ Components are javascript functions or classes which typically accept "props" an
 We can have some data:
 <details>
     <summary>
-        ```javascript
+        ```java
             const expenses = [
                 {
                     id: 'e1',
@@ -40,7 +40,7 @@ We can have some data:
 And we can have a component that could take in this data:
 <details>
     <summary>
-        ```javascript
+        ```java
                 export default function ExpenseItem() {
                     const expenseDate = "September 3, 2022"
                     const expenseTitle = "Car Insurance"
