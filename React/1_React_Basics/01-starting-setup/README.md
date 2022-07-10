@@ -7,6 +7,7 @@ We can have some data:
 <details>
     <summary>
         ```java
+
             const expenses = [
                 {
                     id: 'e1',
